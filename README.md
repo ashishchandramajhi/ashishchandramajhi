@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishchandramajhi
-- 👀 Interested in python based  
+- 👀 Interested in data science , data analytics ,visualization .
 - 🌱 I’m currently learning how to use ChatGPT efficiently
 - 💞️ I’m looking to collaborate on complex codings and exciting assignments.
 - 📫 You may contact me through LinkedIn , gmail:ashishchandramajhi3@gmail.com
